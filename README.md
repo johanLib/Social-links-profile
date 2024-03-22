@@ -7,7 +7,7 @@
   <h2 align="center">Social links profile solution</h2>
   <p align="center">
   <!-- a modifier -->
-    <a href="https://www.frontendmentor.io/challenges/Social-links-profile-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://johanlib.github.io/Social-links-profile/">View Demo</a>
@@ -39,11 +39,11 @@
 
 </div>
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Social-links-profile-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Social links profile | Frontend Mentor](https://www.frontendmentor.io/solutions/Social-links-profile-solution-5JPlrVzzgi)
+- Solution URL: [Social links profile | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-l2OBQel5wU)
 - Live Site URL: [https://johanlib.github.io/Social-links-profile/](https://johanlib.github.io/Social-links-profile/)
 
 <br>
